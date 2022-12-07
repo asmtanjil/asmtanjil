@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **asm.tanjil@gmail.com**
 
-- 📄 Check My Resume [https://drive.google.com/file/d/1roDcdkd4gdSJrbLr9Wn-_I4PJ3d6Vc8E/view?usp=share_link](https://drive.google.com/file/d/1roDcdkd4gdSJrbLr9Wn-_I4PJ3d6Vc8E/view?usp=share_link)
+- 📄 Check My <a href="https://drive.google.com/file/d/1roDcdkd4gdSJrbLr9Wn-_I4PJ3d6Vc8E/view?usp=share_link">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
