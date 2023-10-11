@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/RjttqHk/White-Minimalist-Corporate-Personal-Profile-Linked-In-Banner-1.png" alt="bootstrap" width="100%"/>
+<img src="https://i.ibb.co/dB8ZFKF/Navy-Blue-Geometric-Technology-Linked-In-Banner.png" alt="bootstrap" width="100%"/>
 
 <h1 align="center">Hello 👋, I'm Abu Salah Md Tanjil</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asmtanjil&label=Profile%20views&color=0e75b6&style=flat" alt="asmtanjil" /> </p>
